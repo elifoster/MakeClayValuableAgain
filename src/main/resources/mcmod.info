@@ -1,0 +1,16 @@
+[
+{
+  "modid": "makeclayvaluableagain",
+  "name": "Make Clay Valuable Again",
+  "description": "Some mods make clay too easy to get. Sad!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/elifoster/MakeClayValuableAgain",
+  "updateUrl": "",
+  "authorList": ["SatanicSanta"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
